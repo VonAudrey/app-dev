@@ -16,7 +16,7 @@ My first repository.
 ## 1. My Demon
 -----------
 ### **About**
-term: Do Do Hee is the successor of the Future Group. She doesn’t trust in anyone and is cynical about love. Do Do Hee gets involved with a demon named Jung Gu Won and makes a contract marriage with him. He can live for eternity by making dangerous, but sweet deals with humans who endure hellish lives. But after looking down upon humans for 200 years, he gets involved with Do Do Hee and somehow loses his power. To prevent his own extinction, he must protect Do Do Hee who has taken all of his power.[^1]
+~~Do Do Hee is the successor of the Future Group. She doesn’t trust in anyone and is cynical about love. Do Do Hee gets involved with a demon named Jung Gu Won and makes a contract marriage with him. He can live for eternity by making dangerous, but sweet deals with humans who endure hellish lives. But after looking down upon humans for 200 years, he gets involved with Do Do Hee and somehow loses his power. To prevent his own extinction, he must protect Do Do Hee who has taken all of his power.~~
 
 
 ## 2. Moon in the day
