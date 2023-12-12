@@ -1,12 +1,12 @@
 # app-dev
 My first repository.
 
-**My Favorite Korean Drama series**
+### **My Favorite Korean Drama Series and Basic Info**
 ```
 {
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
+  "firstName": "Von",
+  "lastName": "Audrey",
+  "age": 21
 }
 ```
 ### FAVORITE Korean Drama {1}
