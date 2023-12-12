@@ -9,7 +9,7 @@ My first repository.
   "age": 21
 }
 ```
-### FAVORITE Korean Drama {1}
+### FAVORITE Korean Drama 
 1. My DEMON
 2. MOON IN THE DAY
 3. NIGHT HAS COME
