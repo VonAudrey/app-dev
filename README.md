@@ -2,6 +2,7 @@
 My first repository.
 
 ### **My Favorite Korean Drama Series and Basic Info**
+ # **Basic Info**
 ```
 {
   "firstName": "Von",
@@ -9,6 +10,6 @@ My first repository.
   "age": 21
 }
 ```
-### FAVORITE Korean Drama 
- My DEMON
-![alt MY DEMON] (my-demon-1698215138.png)
+### My Favorite Korean Dramas
+1 My DEMON
+2.
