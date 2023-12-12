@@ -3,6 +3,7 @@ My first repository.
 
 ### **My Favorite Korean Drama Series and Basic Info**
  # **Basic Info**
+---------------------------
 ```
 {
   "firstName": "Von",
@@ -12,4 +13,4 @@ My first repository.
 ```
 ### My Favorite Korean Dramas
 1 My DEMON
-2.
+2 
