@@ -1,7 +1,7 @@
 # app-dev
 My first repository.
 
-### H3 My Favorite Korean Drama series
+**My Favorite Korean Drama series**
 ```
 {
   "firstName": "John",
