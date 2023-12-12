@@ -1,9 +1,11 @@
 # app-dev
 My first repository.
 
+
 ### **My Favorite Korean Drama Series and Basic Info**
  # **Basic Info**
---
+
+
 ```
 {
   "firstName": "Von",
@@ -27,6 +29,7 @@ My first repository.
 - Joo Cheon Sook
 - Jin Ga Young [Dancer]
 
+
 ---
 ## 2. Moon in the day
 
@@ -39,6 +42,8 @@ My first repository.
 - Han Min Oh
 - So Ri Bu [Do Ha’s stepfather]
 - Koo Tae Ju [Jun Oh’s rival]
+
+
 
 ---
 ## 3. Night has come
