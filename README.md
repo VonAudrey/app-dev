@@ -24,6 +24,8 @@ My first repository.
 - Do Do Hee
 - Jung Koo Won
 - Joo Seok Hoon
+- Joo Cheon Sook
+- Jin Ga Young [Dancer]
 
 ---
 ## 2. Moon in the day
@@ -35,6 +37,8 @@ My first repository.
 - Kang Young Hwa / Han Ri Ta
 - Do Ha / Han Jun Oh
 - Han Min Oh
+- So Ri Bu [Do Ha’s stepfather]
+- Koo Tae Ju [Jun Oh’s rival]
 
 ---
 ## 3. Night has come
@@ -46,3 +50,6 @@ My first repository.
 - Lee Yoon-Seo
 - Kim Jun-Hee	
 - Oh Jung-Won
+- Go Kyung Jun
+- Jin Da Beom
+- Kim So Mi
