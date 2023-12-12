@@ -4,6 +4,7 @@ My first repository.
 ### **My Favorite Korean Drama Series and Basic Info**
  # **Basic Info**
 ---------------------------
+
 ```
 {
   "firstName": "Von",
